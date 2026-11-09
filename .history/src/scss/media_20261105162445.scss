@@ -1,0 +1,41 @@
+@media (max-width: 1024px) {
+    .container {
+        width: 95%;
+    }
+    .home-block {
+        width: 50%;
+        margin-top: 140px;
+    }
+    .home__img {
+        width: 50%;
+        height: auto;
+    }
+    .home-block__title {
+        color: #ffffff;
+        font-size: 60px;
+    }
+    .home-block__subtitle {
+        padding: 10px 0 40px;
+        color: #ffffff;
+        font-size: 17px;
+        font-family: Jost;
+    }
+
+
+    .coaches-track { 
+        width: 100%;
+        gap: 20px;
+    }
+    .coaches-track__card-img {
+        height: 420px;
+    }
+    .coaches-track__card-profession {
+        white-space: nowrap;
+    }
+
+
+
+    .package-cards {
+        gap: 25px;
+    }
+}

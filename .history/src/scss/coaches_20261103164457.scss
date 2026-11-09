@@ -1,0 +1,52 @@
+.coaches {
+    padding: 120px 0;
+}
+
+.coaches__title {
+    color: #141024;
+    font-size: 50px;
+    font-family: Jost;
+    font-weight: 600;
+}
+
+.coaches-track {
+    margin-top: 60px;
+    display: flex;
+    gap: 40px;
+}
+
+.coaches-track__card {}
+
+.coaches-track__card-img {
+    border-radius: 20px;
+}
+
+.coaches-track__card-name {
+    color: #141024;
+
+    font-size: 24px;
+    font-family: Jost;
+    font-weight: 600;
+}
+
+.coaches-track__card-profession {
+    color: rgba(20, 16, 36, 0.699999988079071);
+    font-size: 18px;
+    font-family: Jost;
+}
+
+.coaches-track__card-btn {
+    color: #d52027;
+    font-size: 18px;
+    font-family: Jost;
+    border: none;
+    background: none;
+}
+
+.coaches-arrows {}
+
+.coaches-line {}
+
+.coaches-arrows__buttons {}
+
+.coaches-arrows__buttons-btn {}

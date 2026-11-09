@@ -1,0 +1,36 @@
+.home {
+    width: 100%;
+    padding-top: 20px;
+    background-color: #141024;
+}
+
+.home_blocks {
+    display: flex;
+    gap: 28px;
+}
+
+.home-block {
+    margin-top: 181px;
+}
+
+.home-block__title {
+    color: #ffffff;
+    font-size: 70px;
+    font-family: Jost;
+    font-weight: 600;
+}
+
+.home-block__subtitle {
+    color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Jost;
+}
+
+.home-block__btn {}
+
+.home__img {
+    width: 783px;
+    height: 917px;
+}

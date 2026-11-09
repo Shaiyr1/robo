@@ -1,0 +1,18 @@
+.package {
+  padding-bottom: 120px;
+}
+
+.package__title {
+  color: #141024;
+  font-size: 50px;
+  font-family: Jost;
+  font-weight: 600;
+}
+
+.package-cards {
+  margin-top: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 40px;
+}
