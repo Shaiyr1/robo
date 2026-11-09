@@ -29,7 +29,9 @@
     align-items: center;
     gap: 40px;
 }
-
+.header-nav__close {
+    display: none;
+}
 .header-nav__li {
     list-style-type: none;
 }
