@@ -57,4 +57,9 @@
 }
 .header-nav__phone {
     display: none;
+
+    button {
+        background: none;
+        border: none;
+    }
 }
